@@ -8,8 +8,8 @@ const baseConfig = new ImmutableConfiguration({
 
 const passportInstance = new Passport({
   baseConfig,
-  clientId: "abc",
-  redirectUri: "def",
+  clientId: "abcd",
+  redirectUri: "defg",
 });
 
 new Checkout({
