@@ -1,0 +1,18 @@
+{
+  "name": "codesplitting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Keith Broughton",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@imtbl/sdk": "^1.36.0",
+    "@stdlib/number-float64-base-normalize": "0.0.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
